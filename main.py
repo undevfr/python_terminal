@@ -17,7 +17,7 @@ help_msg = (
 "credit : display welcome message\n"
 "date : display date and time\n"
 "echo : display text\n"
-"exit : quit terminal"
+"exit : quit terminal\n"
 "help : get this menu\n"
 "ls : display all files/folders on current directory\n"
 "pwd : display current directory\n"
