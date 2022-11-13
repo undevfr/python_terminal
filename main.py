@@ -2,8 +2,8 @@
 import os
 import shlex
 from datetime import datetime
-credit_msg = "hackxx Terminal :) version 1.01\ntype help to display  all commands\nBe careful ! this terminal is case sensitive , always print commands with lowercases letters"
-username = "Mathias"
+credit_msg = "undevfr Terminal :) version 1.01\ntype help to display  all commands\nBe careful ! this terminal is case sensitive , always print commands with lowercases letters"
+username = "undevfr"
 
 if os.getenv('COMPUTERNAME') == None:
     machine = "localhost"
