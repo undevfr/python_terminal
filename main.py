@@ -49,6 +49,7 @@ while True:
 
         case "exit":
             print("exit successfully!")
+            exit()
 
         case "help":
             print(help_msg)
